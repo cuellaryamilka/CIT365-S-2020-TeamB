@@ -1,0 +1,14 @@
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\bin\Debug\MegaDesk_Hull.exe.config
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\bin\Debug\MegaDesk_Hull.exe
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\bin\Debug\MegaDesk_Hull.pdb
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\obj\Debug\MegaDesk_Hull.csprojAssemblyReference.cache
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\obj\Debug\MegaDesk_Hull.MainMenu.resources
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\obj\Debug\MegaDesk_Hull.Properties.Resources.resources
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\obj\Debug\MegaDesk_Hull.csproj.GenerateResource.cache
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\obj\Debug\MegaDesk_Hull.csproj.CoreCompileInputs.cache
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\obj\Debug\MegaDesk_Hull.exe
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\obj\Debug\MegaDesk_Hull.pdb
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\obj\Debug\MegaDesk_Hull.AddQuotes.resources
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\obj\Debug\MegaDesk_Hull.searchQuotes.resources
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\obj\Debug\MegaDesk_Hull.viewAllQuotes.resources
+C:\Users\chhul\source\repos\CIT365-S2020-HullColeen\MegaDesk_Hull\obj\Debug\MegaDesk_Hull.DisplayQuote.resources
